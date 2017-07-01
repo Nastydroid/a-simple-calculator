@@ -6,6 +6,7 @@ while True:
     print('for division input /')
     print('for  multiplication input *')
     print('for power input **')
+    print('for modulous input %')
     print('input exit to quit app')
     user=input('press enter to continue:')
     if user == 'exit':
